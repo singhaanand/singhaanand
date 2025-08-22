@@ -64,11 +64,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=singhaanand&show_icons=true&theme=tokyonight&hide=contribs" height="180" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhaanand&layout=compact&theme=tokyonight" height="180" alt="Top Languages" />
 </p>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/singhaanand/singhaanand/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/singhaanand/singhaanand/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/singhaanand/singhaanand/output/pacman-contribution-graph.svg">
-</picture>
